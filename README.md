@@ -1,5 +1,5 @@
 <!--
-**laceywalkerr/laceywalkerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**laceywalkerr/laceywalkerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### I am a student from [Nashville Software School](http://nashvillesoftwareschool.com/) (Chohort 43)
 > Thank you for viewing my Github!
