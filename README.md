@@ -7,6 +7,6 @@
 - 🌱  I am learning all about C#, .Net, SQL, and React.js!
 - 💬 Feel free to ask about any of my repositories! 
 I love talking about my Front End Capstone [Paranormal-Apptivity](https://github.com/laceywalkerr/Paranormal-Apptivity)
-- 📫 You may contact me through email (LaceyMWalker@gmail.com) or by my [Linkedln](https://www.linkedin.com/in/laceywalker/).
+- 📫 You may contact me through [Email](LaceyMWalker@gmail.com) or by my [Linkedln](https://www.linkedin.com/in/laceywalker/).
 
 
