@@ -8,5 +8,6 @@
 - 💬 Feel free to ask about any of my repositories! 
  I love talking about my Front End Capstone: [Paranormal-Apptivity](https://github.com/laceywalkerr/Paranormal-Apptivity) :ghost:
 - 📫 You may contact me through email LaceyMWalker@gmail.com or by my [Linkedln](https://www.linkedin.com/in/laceywalker/).
+- :lightning: Fun fact! I also enjoy making pixel art animations, here's my latest project. [pixelartgif](https://imgur.com/jhbAnst)
 
 
