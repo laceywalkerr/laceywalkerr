@@ -8,4 +8,4 @@
 - 💬 Feel free to ask about any of my repositories! 
  I love talking about my Front End Capstone: [Paranormal-Apptivity](https://github.com/laceywalkerr/Paranormal-Apptivity) :ghost:
 - 📫 You may contact me through email LaceyMWalker@gmail.com or by my [Linkedln](https://www.linkedin.com/in/laceywalker/).
-- :lightning: I'm in the process of completing my personal website, check it out! (Kindly run on desktop) [Click Here](https://laceywalkerr.github.io/)
+- :lightning: I'm in the process of completing my personal website, check it out! [Click Here](https://laceywalkerr.github.io/) (Kindly run on desktop)
