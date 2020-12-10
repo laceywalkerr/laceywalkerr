@@ -9,5 +9,5 @@
  I love talking about my Front End Capstone: [Paranormal-Apptivity](https://github.com/laceywalkerr/Paranormal-Apptivity) :ghost:
 - 📫 You may contact me through email LaceyMWalker@gmail.com or by my [Linkedln](https://www.linkedin.com/in/laceywalker/).
 - ⚡ I'm in the process of completing my personal website, check it out! [Click Here](https://laceywalkerr.github.io/) (Kindly run on desktop)
-[Paranormal-Apptivity]!(https://github.com/laceywalkerr/Paranormal-Apptivity)
+![Photo](https://i.imgur.com/hYvAOxH.jpg)
 
