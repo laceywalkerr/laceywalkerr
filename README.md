@@ -10,10 +10,5 @@
 - 📫 You may contact me through email LaceyMWalker@gmail.com or by my [Linkedln](https://www.linkedin.com/in/laceywalker/).
 - ⚡ I'm in the process of completing my personal website, check it out! [Click Here](https://laceywalkerr.github.io/) (Kindly run on desktop)
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="294" height="93" src="https://imgur.com/a/hkCUyIx">
 </p>
-
-<p align="center">
- <src="https://i.imgur.com/BFS3TdA.jpg"> 
-  </p>
-
