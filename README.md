@@ -13,8 +13,6 @@
 
 <p align="center">
   <img width="294" height="93" src="https://i.imgur.com/BFS3TdA.jpg">
-<!--</p>
-<p align="center">-->
  <br>
 <a href="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
  <img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" /> </a> </p>
