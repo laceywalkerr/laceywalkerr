@@ -1,5 +1,5 @@
 <!--
-**laceywalkerr/laceywalkerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**laceywalkerr/laceywalkerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align="center">
   <img width="294" height="93" src="https://i.imgur.com/BFS3TdA.jpg">
