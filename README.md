@@ -9,6 +9,11 @@
  I love talking about my Front End Capstone: [Paranormal-Apptivity](https://github.com/laceywalkerr/Paranormal-Apptivity) :ghost:
 - 📫 You may contact me through email LaceyMWalker@gmail.com or by my [Linkedln](https://www.linkedin.com/in/laceywalker/).
 - ⚡ I'm in the process of completing my personal website, check it out! [Click Here](https://laceywalkerr.github.io/) (Kindly run on desktop)
+
+<a href="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=synthwave&show_icons=true&hide_border=true"><img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=synthwave&show_icons=true&hide_border=true" /> </a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&layout=compact&theme=synthwave"><img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&layout=compact&theme=synthwave" /> </a>
+
 <p align="center">
   <img width="294" height="93" src="https://i.imgur.com/BFS3TdA.jpg">
 </p>
