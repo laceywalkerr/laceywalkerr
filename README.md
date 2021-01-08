@@ -19,7 +19,3 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&layout=compact&theme=tokyonight&hide=tsql)](https://github.com/laceywalkerr/github-readme-stats)
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&layout=compact&theme=tokyonight">
- <img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&layout=compact&theme=tokyonight" /> </a>
-
-
