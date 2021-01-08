@@ -14,10 +14,9 @@
 <p align="center">
   <img width="294" height="93" src="https://i.imgur.com/BFS3TdA.jpg">
  <br>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&hide=tsql)](https://github.com/laceywalkerr/github-readme-stats)
- <br>-->
- 
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerry&hide=tsql&layout=compact&theme=tokyonight"><img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&layout=compact&theme=tokyonight" /> </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&hide=tsql)](https://github.com/laceywalkerr/github-readme-stats)
+ <br>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerry&layout=compact&theme=tokyonight&hide=tsql"><img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&layout=compact&theme=tokyonight" /> </a>
  
  
 <a href="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
