@@ -16,9 +16,10 @@
  <br>
 <a href="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
  <img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" /> </a> </p>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&hide=tsql)](https://github.com/laceywalkerr/github-readme-stats)
 
-<!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&layout=compact&theme=tokyonight">
  <img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&layout=compact&theme=tokyonight" /> </a>
--->
+
 
