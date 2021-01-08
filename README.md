@@ -13,8 +13,10 @@
 - 📫 You may contact me through email LaceyMWalker@gmail.com or by my [Linkedln](https://www.linkedin.com/in/laceywalker/).
 - ⚡ I'm in the process of completing my personal website, check it out! [Click Here](https://laceywalkerr.github.io/) (Kindly run on desktop)
 
+
+<p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
- <img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" /> </a>
+ <img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" /> </a> </p>
 
 <!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&layout=compact&theme=tokyonight">
