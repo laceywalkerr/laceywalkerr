@@ -1,29 +1,27 @@
-<!--
-**laceywalkerr/laceywalkerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+# Victoria (Lacey) Walker
+### Software Development Engineer in Test (SDET) | QA Automation Engineer
 
+QA Automation Engineer with nearly 3 years of experience building and maintaining Cypress-based test frameworks in production environments.
 
+I specialize in:
+- UI and API automation using Cypress
+- Regression suite ownership and stabilization
+- Cross-functional collaboration with developers
+- Bug triage and root cause analysis
+- Supporting reliable, remote Agile release cycles
 
-### I am a student from [Nashville Software School](http://nashvillesoftwareschool.com/) (Cohort 43)
+---
 
-- 🌱  I am learning all about C#, .Net, SQL, and React.js!
-- 💬 Feel free to ask about any of my repositories! 
- I love talking about my Front End Capstone: [Paranormal-Apptivity](https://github.com/laceywalkerr/Paranormal-Apptivity) :ghost:
+### Tech Stack
+- Automation: Cypress, Postman
+- Languages: JavaScript, C#, SQL
+- Frameworks: React, .NET
+- Practices: Agile, Scrum, CI/CD collaboration
+
+---
+
+Currently seeking a fully remote QA Automation / SDET role.
+
 - 📫 You may contact me through email LaceyMWalker@gmail.com or by my [Linkedln](https://www.linkedin.com/in/laceywalker/).
-- ⚡ I'm in the process of completing my personal website, check it out! [Click Here](https://laceywalkerr.github.io/) (Kindly run on desktop)
 
-<p align="center">
-  <img width="294" height="93" src="https://i.imgur.com/BFS3TdA.jpg">
- <br>
- 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&hide=tsql)](https://github.com/laceywalkerr/github-readme-stats)-->
-
-<!--
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerry&layout=compact&theme=tokyonight"><img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laceywalkerr&layout=compact&theme=tokyonight" /> </a>
- -->
- 
-
-<a href="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
- <img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=laceywalkerr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" /> </a> </p>
- 
 
