@@ -1,11 +1,11 @@
 # Victoria (Lacey) Walker
 ### Software Development Engineer in Test (SDET) | QA Automation Engineer
 
-QA Automation Engineer with nearly 3 years of experience building and maintaining Cypress-based test frameworks in production environments.
+QA Automation Engineer with nearly 3 years of experience owning and expanding Cypress-based automation frameworks in production environments.
 
-I specialize in:
+Core Focus Areas:
 - UI and API automation using Cypress
-- Regression suite ownership and stabilization
+- Regression suite ownership, flakiness reduction, and test stability improvements
 - Cross-functional collaboration with developers
 - Bug triage and root cause analysis
 - Supporting reliable, remote Agile release cycles
@@ -16,7 +16,7 @@ I specialize in:
 - Automation: Cypress, Postman
 - Languages: JavaScript, C#, SQL
 - Frameworks: React, .NET
-- Practices: Agile, Scrum, CI/CD collaboration
+- Practices: Agile/Scrum, CI/CD collaboration, structured bug triage
 
 ---
 
